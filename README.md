@@ -10,7 +10,7 @@
 | Loại Phiên Bản | Thiết Bị Phù Hợp | Màn Hình | Link |
 | --- | --- | --- | --- |
 | Window 1.8.0 | Laptop (Window) | X1 |**[Tải](https://drive.google.com/file/d/1Rxm4tBMsBuEtTyxNYXLiRaVSIajbw7qX/view?usp=share_link)** |
-| Java | Laptop (Window)/Android (J2ME)| X1 | **[Tải](https://drive.google.com/file/d/1DwemLsFtcKmZkjcnTvPGilgx35VZamaj/view?usp=share_link)** |
+| Java | Laptop (Window)/Android (J2ME)| X1 | **[Tải](http://vietup.net/tap-tin/ninja-jar/321537)** |
 ### - Gifcode Ăn Mừng 10 Điểm Toán:
 ```
 Đang Cập Nhật
