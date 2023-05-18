@@ -8,7 +8,7 @@
 | Register | Đăng Ký Tài Khoản | **[Đăng Ký Ngay](http://103.180.148.134/reg.php)** |
 ### **- Tải Game:**
 | Loại Phiên Bản | Thiết Bị Phù Hợp | Màn Hình | Link |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Window 1.8.0 | Laptop (Window) | X1 |**[Tải](https://drive.google.com/file/d/1ErmznVfnRs_yAt9_0U2kbdH0AexXBWBe/view?usp=share_link)** |
 | Java | Laptop (Window)/Android (J2ME)| X1 | **[Tải](https://drive.google.com/file/d/1wxCXhI3e1hoguy4oaERZctQ47pjTtL8a/view?usp=share_link)** |
 ### - Gifcode Ăn Mừng 10 Điểm Toán:
